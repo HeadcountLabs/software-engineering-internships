@@ -4,7 +4,7 @@
 
 Open software engineering, developer and DevOps internships and co-ops at US employers.
 
-**1 open jobs** · 1 new since the last update · 198 removed because they closed or left the employer's board · updated November 7, 2026 at 4:31 AM EST
+**4 open jobs** · 4 new since the last update · 1 removed because they closed or left the employer's board · updated November 8, 2026 at 4:31 AM EST
 
 This list is built and refreshed every day by [Headcount Labs](https://headcountlabs.com/?utm_source=github&utm_medium=job-list&utm_campaign=software-engineering-internships), which reads jobs straight from employers' own career pages and job boards. Every job here was still listed on its source board when we last read that board, within the past 3 days, and was posted in the past 30 days. Copies of the same job are merged into one row, and jobs that close are removed at the next update.
 
@@ -12,13 +12,23 @@ Want this data in your own app or agent? Use the [Headcount Labs jobs API](https
 
 **Full dataset.** A bigger, one-off snapshot dated 2026-10-19 (all matching jobs, not only the open jobs below) is on Hugging Face: [Tech and software jobs](https://huggingface.co/datasets/HeadcountLabs/tech-jobs) · [Internships](https://huggingface.co/datasets/HeadcountLabs/internships). It loads with `datasets.load_dataset` and is under the Open Database License (ODbL) 1.0.
 
+**Jump to:** [Posted in the last 7 days (1)](#posted-in-the-last-7-days) · [Posted 8 to 30 days ago (3)](#posted-8-to-30-days-ago)
+
 **Columns.** *Apply* opens the original posting on the employer's site. *Details* opens the job on Headcount Labs, with every posting we found for it. *Remote* shows what the employer states; a dash means the posting doesn't say. *Pay* is the range the employer published.
 
 ## Posted in the last 7 days
 
 | Company | Role | Location | Remote | Pay | Posted | Apply | Details |
 | --- | --- | --- | --- | --- | --- | :---: | :---: |
-| **L.L.Bean Inc.** | Software Developer Intern (Summer 2027) | Freeport, ME | — | $20–$22/hr | Nov 6 | <a href="https://llbean.wd1.myworkdayjobs.com/LLBean_Careers/job/Freeport-ME/Software-Developer-Intern--Summer-2027-_JR11274-1"><img src="assets/apply.png" width="64" alt="Apply"></a> | <a href="https://headcountlabs.com/catalog/jobs/d4f682df-fd4c-4abf-9830-615a44bb119c?utm_source=github&utm_medium=job-list&utm_campaign=software-engineering-internships">via Headcount Labs</a> |
+| **ICCU** | Software Development Intern | <details><summary>2 locations</summary>Meridian, ID<br>Chubbuck, ID</details> | On-site | — | Nov 6 | <a href="https://recruiting.ultipro.com/ida1000/JobBoard/26bbbd4e-7790-a471-7482-a40a1f3f8f25/OpportunityDetail?opportunityId=602951ff-db67-4966-a074-cafd1ec6f76b"><img src="assets/apply.png" width="64" alt="Apply"></a> | <a href="https://headcountlabs.com/catalog/jobs/b678f5cd-9e3d-4312-ab59-a9534caa3290?utm_source=github&utm_medium=job-list&utm_campaign=software-engineering-internships">via Headcount Labs</a> |
+
+## Posted 8 to 30 days ago
+
+| Company | Role | Location | Remote | Pay | Posted | Apply | Details |
+| --- | --- | --- | --- | --- | --- | :---: | :---: |
+| **Westinghouse Electric Company, LLC** | Summer Intern -Computer Engineering / Software Engineering | <details><summary>2 locations</summary>Rock Hill, SC<br>Cranberry Township</details> | On-site | $25.40–$29/hr | Oct 28 | <a href="https://careers.westinghousenuclear.com/job/Rock-Hill-Summer-Intern-Computer-Engineering-Software-Engineering-SC-29730/1425163200/"><img src="assets/apply.png" width="64" alt="Apply"></a> | <a href="https://headcountlabs.com/catalog/jobs/42dc1dea-7291-4d17-a8c2-42822d4c939e?utm_source=github&utm_medium=job-list&utm_campaign=software-engineering-internships">via Headcount Labs</a> |
+| **Westinghouse Electric Company, LLC** | Summer Intern - Software Engineering | Warrendale | On-site | $25.40–$29/hr | Oct 22 | <a href="https://careers.westinghousenuclear.com/job/Warrendale-Summer-Intern-Software-Engineering-OR/1442826200/"><img src="assets/apply.png" width="64" alt="Apply"></a> | <a href="https://headcountlabs.com/catalog/jobs/df787f9b-7e4d-43d0-9b63-48302b0db73e?utm_source=github&utm_medium=job-list&utm_campaign=software-engineering-internships">via Headcount Labs</a> |
+| **Ametek, Inc.** | Intern, Junior Python Developer | Wayne, NJ | — | — | Oct 21 | <a href="https://jobs.ametek.com/job/Wayne-Intern%2C-Junior-Python-Developer-NJ-07470/1432632900/"><img src="assets/apply.png" width="64" alt="Apply"></a> | <a href="https://headcountlabs.com/catalog/jobs/30ca3bc5-8e43-4a94-a279-7edfcb192d10?utm_source=github&utm_medium=job-list&utm_campaign=software-engineering-internships">via Headcount Labs</a> |
 
 ## Related data on Headcount Labs
 
@@ -38,4 +48,4 @@ This README is generated, so edits to it are overwritten at the next update. If 
 
 The list data is under the [Open Database License (ODbL) 1.0](LICENSE). Our own values in it are under the [Database Contents License (DbCL) 1.0](https://opendatacommons.org/licenses/dbcl/1-0/). Credit "Headcount Labs (https://headcountlabs.com)" when you reuse it. Job description text is the employer's own text and is not licensed by us. Takedown requests: [https://headcountlabs.com/remove/](https://headcountlabs.com/remove/). Location data includes data from OpenStreetMap contributors (ODbL) and Overture Maps. The same rows are in [`data/jobs.csv`](data/jobs.csv).
 
-<sub>Generated by Headcount Labs from the jobs API on November 7, 2026 at 4:31 AM EST. At most 8 jobs per employer are shown in each list.</sub>
+<sub>Generated by Headcount Labs from the jobs API on November 8, 2026 at 4:31 AM EST. At most 8 jobs per employer are shown in each list.</sub>
